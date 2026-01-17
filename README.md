@@ -52,9 +52,9 @@ A Inteligência Artificial é utilizada para:
 
 | Jogo / Website | Descrição | Estado |
 |---------------|----------|--------|
-| ✊✋✌ Rock Paper Scissors | Jogo clássico contra o computador | Concluído |
+| 🎰 Casino Roulette | Simulação de roleta | Concluído, Esperando V2 |
 | 🐍 Snake | Snake em JavaScript puro | Em progresso |
-| 🎰 Casino Roulette | Simulação de roleta | Em progresso |
+| ✊✋✌ Rock Paper Scissors | Jogo clássico contra o computador | Planeado |
 | 🃏 Poker | Lógica base de poker | Planeado |
 | 🏦 Monopoly | Versão simplificada | Planeado |
 
